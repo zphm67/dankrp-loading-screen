@@ -5,7 +5,7 @@ var crossOriginProvider = 'https://ignorecors-yipksgwdit.now.sh/?url=' + encodeU
 /**
  * init everything
  */
-document.body.style.backgroundImage = 'url(' + gmodLS.backgroundImg + ')';
+document.body.style.backgroundImage = 'url(' + gmodLS.backgroundImg[1] + ')';
 dqs('[data-mapname]').innerText     = getQueryVariable('mapname');
 
 /* call SteamWebapi for personaname & avatar */
@@ -78,3 +78,17 @@ function SetStatusChanged( status ) {
 
 // data-players-online
 // data-rules
+function start() {
+    var num = 0;
+    var changeImage = function() {
+        var len = gmodLS.backgroundImg.length;
+        document.body.style.backgroundImage = 'url(' + gmodLS.backgroundImg[num++]; + ')';
+        if (num == len) {
+            num = 0;
+        }
+     };
+    setInterval(changeImage, 3 * 1000);
+};
+window.onload=function(){
+start();
+}
