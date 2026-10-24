@@ -20,7 +20,10 @@ gmodLS.backgroundImg  = [
     'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/assets/images/20BBE81.JPG',
     'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/assets/images/IMG_1231.png',
     'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/assets/images/IMG_2628.png',
-    'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/assets/images/image.png'
+    'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/assets/images/image.png',
+    'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/assets/images/20260730000039_1.jpg',
+    'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/assets/images/20260307212641_1.jpg',
+    'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/assets/images/20250829202048_1.jpg'
     ];
 
 /**
