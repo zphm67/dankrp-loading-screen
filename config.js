@@ -40,7 +40,7 @@ gmodLS.musicFiles = [
  * 1   = full volume
  * @type {Number}
  */
-gmodLS.musicVolume = .3;
+gmodLS.musicVolume = .1;
 
 /**
  * Serverrules - One rule per row
