@@ -12,7 +12,9 @@ gmodLS.steamWebApiKey = 'DBFAB9253AEF30E0DEB8A14AA743DEE6';
  * Will be centered and streched if needed to the users resolution
  * @type {String}
  */
-gmodLS.backgroundImg  = 'https://files.facepunch.com/s/f3f82956055e.jpg';
+gmodLS.backgroundImg  = [
+    'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/FOLLOW.png'
+    ];
 
 /**
  * If you want music played in background add your music files here.
