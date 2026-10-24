@@ -13,7 +13,14 @@ gmodLS.steamWebApiKey = 'DBFAB9253AEF30E0DEB8A14AA743DEE6';
  * @type {String}
  */
 gmodLS.backgroundImg  = [
-    'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/FOLLOW.png'
+    'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/FOLLOW.png',
+    'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/assets/images/20250709135557_1.jpg',
+    'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/assets/images/20260727160453_1.jpg',
+    'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/assets/images/2026084.JPG',
+    'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/assets/images/20BBE81.JPG',
+    'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/assets/images/IMG_1231.png',
+    'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/assets/images/IMG_2628.png',
+    'https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/assets/images/image.png'
     ];
 
 /**
