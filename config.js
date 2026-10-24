@@ -5,7 +5,7 @@ var gmodLS = {}
  * You can get it with your steam account for free here: https://steamcommunity.com/dev/apikey
  * @type {String}
  */
-gmodLS.steamWebApiKey = '64CDF653E45DFF6144F74EE6501C43A5';
+gmodLS.steamWebApiKey = 'DBFAB9253AEF30E0DEB8A14AA743DEE6';
 
 /**
  * A URI path or full URL to the loadingscreen background.
@@ -32,15 +32,15 @@ gmodLS.musicFiles = [
  * 1   = full volume
  * @type {Number}
  */
-gmodLS.musicVolume = .1;
+gmodLS.musicVolume = .3;
 
 /**
  * Serverrules - One rule per row
  * @type {Array}
  */
 gmodLS.rules = [
-    "Don't spam mic/chat",
-    "Be friendly",
-    "No RDM'ing",
-    "No ghosting",
+    "penis 1",
+    "penis 2",
+    "penis 3",
+    "penis 4",
 ];
