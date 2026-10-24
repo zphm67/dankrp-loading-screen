@@ -11,7 +11,7 @@
 * { box-sizing: border-box; }
 
 body {
-    background-image: url(https://files.facepunch.com/s/f3f82956055e.jpg); /* fallback */
+    background-image: url(https://raw.githubusercontent.com/zphm67/dankrp-loading-screen/refs/heads/main/FOLLOW.png); /* fallback */
     background-position: top center;
     background-size: cover;
     margin: 0;
