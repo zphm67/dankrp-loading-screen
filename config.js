@@ -31,7 +31,6 @@ gmodLS.backgroundImg  = [
 gmodLS.musicFiles = [
     'music/1.ogg',
     'music/2.ogg',
-    'music/3.ogg',
 ];
 
 /**
