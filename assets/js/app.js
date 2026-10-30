@@ -78,8 +78,12 @@ function SetStatusChanged( status ) {
 
 // data-players-online
 // data-rules
+function randInt(min, max) { // min and max included 
+  return Math.floor(Math.random() * (max - min + 1) + min);
+}
+
 function start() {
-    var num = 0;
+    var num = randInt(0,gmodLS.backgroundImg.length-1);
     var changeImage = function() {
         var len = gmodLS.backgroundImg.length;
         document.body.style.backgroundImage = 'url(' + gmodLS.backgroundImg[num++]; + ')';
